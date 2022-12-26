@@ -1,7 +1,7 @@
 terraform {
 /* Uncomment this block to use Terraform Cloud for this tutorial
 cloud {
-    organization = "organization-name"
+    organization = "arms"
     workspaces {
       name = "learn-terraform-sensitive-variables"
     }
